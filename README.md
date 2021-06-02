@@ -44,7 +44,7 @@ Slicer: Cura --> Slow on the first layer<br>
 # VAWT STL FILES
 The VAWT can be found on Thingiverse at: https://www.thingiverse.com/thing:2284021
 # STL / FREECAD FILES
-I designed the droid using FreeCAD, which is free and works on all major OS platforms.<br>
+I designed the turbine using FreeCAD, which is free and works on all major OS platforms.<br>
 You are free to edit / change all designs, but please give a reference to the original!<br>
 
 
@@ -59,10 +59,10 @@ USB Holder --> Holds 5 slots for a USB power rail that is regulated with one LM2
 USB Cover --> Whats a USB holder without a cover? featuring 2 M3 Screws and My symbol!<br>
 
 
-** Iterations and design changes were made, but since there aren't any standards for ceiling fans, these might help for attaching bolts**
-boltElbow1n1
-boltElbowNUTZ
-2ndBoltElbow90
+** Iterations and design changes were made, but since there aren't any standards for ceiling fans, these might help for attaching bolts**<br>
+boltElbow1n1<br>
+boltElbowNUTZ<br>
+2ndBoltElbow90<br>
 
 # Build Pictures
 <img src="https://github.com/caleb221/CeilingFan-WindTurbine/blob/main/windTurbineImg/VAWT_complete2.jpg" alt="lost it somewhere..." width = 400 height=600>
