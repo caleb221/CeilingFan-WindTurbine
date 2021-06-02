@@ -13,8 +13,13 @@ Here is the result of not having a welder and transforming a solar panel control
 # Hardware:
 Ceiling Fan Motor<br>
 Arduino Nano<br>
-LM2596S Voltage Regulator package (X2)<br>
-IRFz44n MOSFET Transistor (X2) <br>
+LM2596S Voltage Regulator package (X2)<br><br>
+IRFz44n (X2) <b>OR</b>  IRF9530 (X2) MOSFET Transistor as shown in Schematic<br>
+    <code><b>YOUR CHOICE OF MOSFET WILL CHANGE YOUR SCHEMATIC!</b>
+    <br>IRFz44n is a <b>N-Channel</b>
+    <br>IRF9530 is a <b>P-Channel</b>
+  </code>
+<br><br>
 pn2222a Transistor (X2) <br>
 ACS712 Current Sensors 30Amp (X2)<br>
 12V Battery<br>
