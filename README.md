@@ -20,6 +20,7 @@ IRFz44n (X2) <b>OR</b>  IRF9530 (X2) MOSFET Transistor as shown in Schematic<br>
     <br>IRF9530 is a <b>P-Channel</b>
   </code>
 <br><br>
+2004 20X4 LCD Display LCD Screen<br>
 pn2222a Transistor (X2) <br>
 ACS712 Current Sensors 30Amp (X2)<br>
 12V Battery<br>
