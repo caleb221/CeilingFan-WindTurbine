@@ -47,6 +47,19 @@ Temp: 235<br>
 Slicer: Cura --> Slow on the first layer<br>
 --> outdoor parts I would reccommend PETG
 
+
+# Electronics Images
+Shown below are the Perf Boards I soldered up to get a working charge controller along with the USB Charger, Battery and 2-Phase bridge rectefier  <br>
+The pictures are missing the ACS712 because I had gotten the 5Amp version and attempted to pair it with a 7 Amp battery X(<br>
+The Screen is also omitted in order to show the electronics more clearly.<br>
+<br>The Bridge Rectefier Diodes are connected to the Turbine via 200+Ft of wires.<br>
+<img src="https://github.com/caleb221/CeilingFan-WindTurbine/blob/main/windTurbineImg/electronicsALL2.jpg" alt="lost it somewhere..." width = 400 height=400>
+
+<img src="https://github.com/caleb221/CeilingFan-WindTurbine/blob/main/windTurbineImg/electronicsBatterySide.jpg" alt="lost it somewhere..." width = 300 height=200> This is the side that monitors the Battery
+
+<img src="https://github.com/caleb221/CeilingFan-WindTurbine/blob/main/windTurbineImg/electronics_Transistors2.jpg" alt="lost it somewhere..." width = 300 height=200> This is the MOSFT Control center.
+
+
 # VAWT STL FILES
 The VAWT can be found on Thingiverse at: https://www.thingiverse.com/thing:2284021
 # STL / FREECAD FILES
